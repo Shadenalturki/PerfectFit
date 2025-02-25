@@ -12,11 +12,6 @@ By applying **selection, crossover, and mutation techniques**, the algorithm evo
 **Personalized & Adaptive Results:** Continuously improves outfit selection through multiple generations.  
 **Performance Analysis & Visualization:** Tracks fitness score progression over time.  
 
-## Key Outcomes & Impact  
- **Developed an AI-driven decision support system for outfit selection.**  
- **Achieved an average fitness score of 0.92 across multiple generations.**  
- **Demonstrated the effectiveness of Genetic Algorithms in real-world optimization.**  
-
 ## Technologies & Tools Used  
  **Python** (Genetic Algorithm Implementation)  
  **NumPy & Pandas** (Data Handling)  

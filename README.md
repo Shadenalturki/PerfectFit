@@ -6,11 +6,11 @@ PerfectFit is an AI-powered **outfit selection system** that utilizes **Genetic 
 By applying **selection, crossover, and mutation techniques**, the algorithm evolves and refines outfit combinations to provide **personalized and optimized recommendations**.  
 
 ## Key Features  
-**AI-Based Outfit Recommendations:** Finds the best outfit based on user-defined constraints.  
-**Fitness Function Optimization:** Evaluates outfit suitability using **budget, color, comfort, and style**.  
-**Genetic Algorithm Implementation:** Uses **selection, crossover, and mutation** to refine results.  
-**Personalized & Adaptive Results:** Continuously improves outfit selection through multiple generations.  
-**Performance Analysis & Visualization:** Tracks fitness score progression over time.  
+• **AI-Based Outfit Recommendations:** Finds the best outfit based on user-defined constraints.  
+• **Fitness Function Optimization:** Evaluates outfit suitability using **budget, color, comfort, and style**.  
+• **Genetic Algorithm Implementation:** Uses **selection, crossover, and mutation** to refine results.  
+• **Personalized & Adaptive Results:** Continuously improves outfit selection through multiple generations.  
+• **Performance Analysis & Visualization:** Tracks fitness score progression over time.  
 
 ## Technologies & Tools Used  
  **Python** (Genetic Algorithm Implementation)  
